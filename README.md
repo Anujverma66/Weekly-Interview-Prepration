@@ -1,7 +1,7 @@
 ### 📌 Folder Overview
 
 This folder contains my weekly practice across four major areas: **Full Stack Technical, DSA, Git & GitHub, and Machine Coding**.  
-Inside each folder, the `000_PROGRAM_OVERVIEW.md` file records my **weekly achievements, practice, and progress** for that particular area.
+Inside each folder, the `OVERVIEW.md` file records my **weekly achievements, practice, and progress** for that particular area.
 
 ### 💻 Full Stack Technical
 Contains my weekly **Full Stack technical questions and interview practice**.  
